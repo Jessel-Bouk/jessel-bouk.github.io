@@ -1,0 +1,17 @@
+p{
+    color: rgb(17, 97, 97);
+    width: 500px;
+    border: 1px solid black;
+    text-align: justify;
+}
+
+img{
+    width: 50%;
+    height: 20%;
+}
+
+h1{
+    color: blue;
+    text-shadow: cadetblue;
+    text-align:initials;
+}
